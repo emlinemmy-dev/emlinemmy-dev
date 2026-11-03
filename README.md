@@ -1,8 +1,7 @@
-# Hi, I'm Emmy Lin 👋
+# Hi, I'm Emmy 👋
 
-Mathematics graduate focused on dynamic systems, quantitative modeling, and Python development.
+Mathematics graduate (BU) interested in dynamic systems, quantitative modeling, and AI safety research. 
 
-- 🎓 **Education:** BA in Mathematics, Boston University
-- 🔬 **Focus Areas:** AI Safety & Alignment, Dynamic Systems, Computational Mathematics
-- 🛠️ **Tech Stack:** Python (Pandas, NumPy, NLTK), Jupyter Notebooks, Google Colab, LaTeX, Git
-- 📍 **Connect:** [LinkedIn](https://linkedin.com/in/emmylin) | [Email](mailto:emlinemmy@gmail.com)
+- **Focus Areas:** AI Safety & Alignment, Dynamic Systems, Computational Math
+- **Tech Stack:** Python (Pandas, NumPy, NLTK), Jupyter, Google Colab, LaTeX, Git
+- **Links:** [LinkedIn](https://linkedin.com/in/emmylin) | [Email](mailto:emlinemmy@gmail.com)
